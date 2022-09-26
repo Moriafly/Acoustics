@@ -20,18 +20,6 @@ http://www.sengpielaudio.com/calculator-bandwidth.htm
 | 1/6 | 8.651 |
 | 1/12 small | 17.310 high |
 
-$$\text{对方程形如}: x^3-1=0\\\text{设}: \omega =\frac{-1+i\sqrt{3}}{2}\\x_1=1, x_2=\omega =\frac{-1+i\sqrt{3}}{2}, x_3=\omega ^2=\frac{-1+i\sqrt{3}}{2}$$
-
-$$
-\left[
-\begin{matrix}
-1 & 0 & 0 \\
-0 & 1 & 0 \\
-0 & 0 & 1
-\end{matrix}
-\right]
-$$
-
 ## ReplayGain
 
 https://github.com/Moriafly/SaltPlayerSource/issues/158
