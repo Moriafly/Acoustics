@@ -1,6 +1,12 @@
-## Acoustics 
+# Acoustics
 
-简单的几个声学算法
+简单的声学相关算法
+
+## JitPack
+
+```groovy
+implementation 'com.github.Moriafly:Acoustics:Tag'
+```
 
 ## 带通滤波器（BPF）和 EQ 滤波器中 Q 因数换算倍频程带宽的算法
 
